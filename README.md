@@ -1,2 +1,3 @@
 # Ecopam-
-This repo is for class task
+My personal flutter project for one of my college class task
+
