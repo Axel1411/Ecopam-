@@ -2,8 +2,6 @@
 
 A new Flutter project.
 
-I don't have anything filed yet about EcoPam specifically — this looks like a new project. But based on everything you've shared in this conversation (the code structure, screens, and data model), here's a description built from what I can see in the app itself:
-
 EcoPam is a campus waste management mobile app built with Flutter, designed for use at Universitas Pamulang. It connects three user roles — mahasiswa (students), CS (cleaning staff), and Sarpras (facilities team) — around a shared reporting and resolution workflow:
 
 - **Students** log in with a campus email and can report trash/cleanliness issues by location (building, floor, specific spot), optionally with photo evidence. Verified reports earn Eco-Points as an incentive system.
